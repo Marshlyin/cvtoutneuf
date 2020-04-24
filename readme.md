@@ -19,7 +19,7 @@
   - **DevOps**, **Internet of Things**, Base de **cyber-sécurité** (PenTest, Analyse des virus les plus connus, création d'applications sécurisées)
 
 # Expérience professionnelle 
-- Janvier 2019 - Juillet 2019 : Stagiaire en **Développement CRM** chez [EFFIOS](http://www.effios.fr) pour le **[Ministère de l'éducation Nationnale](https://www.education.gouv.fr/)**  (75)
+- Janvier 2019 - Juillet 2019 : Stagiaire en **Développement CRM** chez [EFFIOS](http://www.effios.fr) pour le **[Ministère de l'éducation Nationale](https://www.education.gouv.fr/)**  (75)
   - 
   - **Développement CRM** pour la gestion des partenaires du [GAR](https://gar.education.fr/)
   - Reprise du **logiciel libre** [Dolibarr](https://www.dolibarr.org/)
