@@ -77,7 +77,7 @@
   - Informatique : The DevOps Handbook (G. Kim), The Pragmatic Programmer (D. Thomas), Design It ! (M. Keeling)
   - Science : La Structure des Révolutions Scientifiques (T. Kuhn), Une Brève Histoire du Temps (S. Hawking)
   - Technologie : L'âge des Lowtech (P. Bihouix)
-- Musique : Batterie, Piano, Collection de Vinyle
+- Musique : Batterie, Piano, Collection de Vinyles
 - Photographie
 
 
