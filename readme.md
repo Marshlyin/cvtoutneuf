@@ -10,7 +10,6 @@
 # Formation 
 - 2015-2020 : Étudiant en **Informatique et Système d'Information** (ISI) à l'**Université de Technologie de Troyes** (10)
   - 
-  - Préparation d'un double diplôme Master **S**écurité des **S**ystèmes d'**I**nformation
   - Spécialisation ingénieur **I**nnovation **P**ar le **L**ogiciel
 - Septembre - Décembre 2019 : Étudiant en **échange universitaire** à l'**École de Technologie Supérieure de Montréal**
   -  
