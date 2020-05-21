@@ -13,7 +13,6 @@
   - 
   - Préparation d'un double diplôme Master **S**écurité des **S**ystèmes d'**I**nformation
   - Spécialisation ingénieur **I**nnovation **P**ar le **L**ogiciel
-  - **Management** de projets **Agile**, développement **Web**/**Mobile**, **UX/UI**
 - Septembre - Décembre 2019 : Étudiant en **échange universitaire** à l'**École de Technologie Supérieure de Montréal**
   -  
   - **DevOps**, **Internet of Things**, bases de **Cyber-Sécurité** (**analyse de risque**, **vulnérabilités**, **menaces** & **contre-mesures classiques**)
