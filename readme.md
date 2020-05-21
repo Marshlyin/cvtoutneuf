@@ -6,7 +6,6 @@
 - Téléphone : 0638887282
 - Adresse : 57 bis rue des Chesneaux, Montmorency (95160)
 - Adresse Mail : flavien.belli@utt.fr
-- Linkedin : Flavien Belli
 
 # Formation 
 - 2015-2020 : Étudiant en **Informatique et Système d'Information** (ISI) à l'**Université de Technologie de Troyes** (10)
@@ -49,8 +48,7 @@
 # Compétences 
 - Langues
   - Anglais : C1 (Bulats)
-  - Allemand : B1 
-  - Espagnol : Notions 
+  - Allemand, Espagnol : Notions
 
 - Informatique : 
   - Développement **Front** (HTML / CSS / JS) et **BACK** (PHP / MySQL)
@@ -65,7 +63,7 @@
 
 # Intérêt 
 - Sport : Randonnée
-- Voyages : Royaume Uni, Canada, Suisse, Italie
+- Voyages : Europe, Canada
 - Lecture : 
   - Informatique : The DevOps Handbook (G. Kim), The Pragmatic Programmer (D. Thomas), Design It ! (M. Keeling)
   - Sécurité : Sécurité informatique - Ethical Hacking : Apprendre l'attaque pour mieux se défendre (ACISS)
