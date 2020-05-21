@@ -15,14 +15,13 @@
   - Spécialisation ingénieur **I**nnovation **P**ar le **L**ogiciel
   - **Management** de projets **Agile**, développement **Web**/**Mobile**, **UX/UI**
 - Septembre - Décembre 2019 : Étudiant en **échange universitaire** à l'**École de Technologie Supérieure de Montréal**
-  - 
-  - **DevOps**, **Internet of Things**, bases de **Cyber-Sécurité** (PenTest, analyse des virus les plus connus, création d'applications sécurisées)
+  -  
+  - **DevOps**, **Internet of Things**, bases de **Cyber-Sécurité** (**analyse de risque**, **vulnérabilités**, **menaces** & **contre-mesures classiques**)
 
 # Expérience professionnelle 
 - Janvier 2019 - Juillet 2019 : Stagiaire en **Développement CRM** chez [EFFIOS](http://www.effios.fr) pour le **[Ministère de l'éducation Nationale](https://www.education.gouv.fr/)**  (75)
   - 
-  - **Développement CRM** pour la gestion des partenaires du [GAR](https://gar.education.fr/)
-  - Reprise du **logiciel libre** [Dolibarr](https://www.dolibarr.org/)
+  - **Développement du CRM libre [Dolibarr](https://www.dolibarr.org/)** pour la gestion des partenaires du [GAR](https://gar.education.fr/)
   - **Administration de serveur** (Ubuntu 18.04)
   - Intégration des concepts **Agile** dans la gestion du projet
   - Rédaction de **documents techniques** et de **livrables**, autonomie
@@ -33,12 +32,7 @@
   - Mise en place d'**outils collaboratifs** pour la **gestion de projet**
   - Finalisation de développements annexes
 
-- Juillet 2018 : Référent cité pour l'association [Les Petits Débrouillards](https://www.lespetitsdebrouillards.org/)
-  - 
-  - **Logistique**, animation et **rédaction de bilans**
-
 # Expérience Associative 
-- 2020 : UTT ARENA 
   
 - 2017 - 2019 : **Secrétaire** pour Média UTT
   - 
@@ -55,7 +49,7 @@
 
 # Compétences 
 - Langues
-  - Anglais : C1 
+  - Anglais : C1 (Bulats)
   - Allemand : B1 
   - Espagnol : Notions 
 
@@ -75,6 +69,7 @@
 - Voyages : Royaume Uni, Canada, Suisse, Italie
 - Lecture : 
   - Informatique : The DevOps Handbook (G. Kim), The Pragmatic Programmer (D. Thomas), Design It ! (M. Keeling)
+  - Sécurité : Sécurité informatique - Ethical Hacking : Apprendre l'attaque pour mieux se défendre (ACISS)
   - Science : La Structure des Révolutions Scientifiques (T. Kuhn), Une Brève Histoire du Temps (S. Hawking)
   - Technologie : L'âge des Lowtech (P. Bihouix)
 - Musique : Batterie, Piano, Collection de Vinyles
