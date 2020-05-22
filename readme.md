@@ -18,7 +18,7 @@
 # Expérience professionnelle 
 - Janvier 2019 - Juillet 2019 : Stagiaire en **Développement CRM** chez [EFFIOS](http://www.effios.fr) pour le **[Ministère de l'éducation Nationale](https://www.education.gouv.fr/)**  (75)
   - 
-  - **Développement du CRM libre [Dolibarr](https://www.dolibarr.org/)** pour la gestion des partenaires du [GAR](https://gar.education.fr/)
+  - **Développement d'un fork du CRM libre [Dolibarr](https://www.dolibarr.org/)** pour la gestion des partenaires du [GAR](https://gar.education.fr/)
   - **Administration de serveur** (Ubuntu 18.04)
   - Intégration des concepts **Agile** dans la gestion du projet
   - Rédaction de **documents techniques** et de **livrables**, autonomie
